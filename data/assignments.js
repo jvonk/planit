@@ -67,7 +67,7 @@ assignments = {
       "title": "Homework 10",
       "course": "CS 170",
       "dueDate": "2022-11-07T21:59:00",
-      "link": "https://www.gradescope.com/courses/426018/assignments/2226069/submissions/147191969",
+      "link": "https://www.gradescope.com/courses/426018/assignments/2226069/submissions/147197236",
       "submitted": true
     },
     {
