@@ -67,7 +67,7 @@ assignments = {
       "title": "Homework 10",
       "course": "CS 170",
       "dueDate": "2022-11-07T21:59:00",
-      "link": "https://www.gradescope.com/courses/426018/assignments/2226069/submissions/146848405",
+      "link": "https://www.gradescope.com/courses/426018/assignments/2226069/submissions/147191969",
       "submitted": true
     },
     {
@@ -306,8 +306,8 @@ assignments = {
       "title": "Homework 7",
       "course": "Physics 5C",
       "dueDate": "2022-11-07T23:59:00",
-      "link": "https://www.gradescope.com/courses/434251",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/434251/assignments/2390767/submissions/147192067",
+      "submitted": true
     },
     {
       "title": "Homework 8",
