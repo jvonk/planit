@@ -269,8 +269,8 @@ assignments = {
       "title": "Lab 7 Submission",
       "course": "PHYSICS 5CL-LAB",
       "dueDate": "2022-11-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/427240",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/427240/assignments/2425700/submissions/147787351",
+      "submitted": true
     }
   ],
   "Physics 5C": [
