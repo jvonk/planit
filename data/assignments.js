@@ -171,6 +171,13 @@ assignments = {
       "dueDate": "2022-11-07T23:59:00",
       "link": "https://www.gradescope.com/courses/431399/assignments/2388450/submissions/146598914",
       "submitted": true
+    },
+    {
+      "title": "Homework 11",
+      "course": "Math 110 - DIS 101, 103, 104",
+      "dueDate": "2022-11-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/431399",
+      "submitted": false
     }
   ],
   "PHYSICS 5CL-LAB": [
