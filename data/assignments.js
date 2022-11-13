@@ -83,6 +83,13 @@ assignments = {
       "dueDate": "2022-11-01T00:10:00",
       "link": "https://www.gradescope.com/courses/426018",
       "submitted": false
+    },
+    {
+      "title": "Project Phase 1",
+      "course": "CS 170",
+      "dueDate": "2022-11-16T23:59:00",
+      "link": "https://www.gradescope.com/courses/426018",
+      "submitted": false
     }
   ],
   "Math 110": [
