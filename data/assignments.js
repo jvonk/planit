@@ -74,8 +74,8 @@ assignments = {
       "title": "Homework 11",
       "course": "CS 170",
       "dueDate": "2022-11-14T21:59:00",
-      "link": "https://www.gradescope.com/courses/426018",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/426018/assignments/2226070/submissions/148903584",
+      "submitted": true
     },
     {
       "title": "Mid Semester Feedback",
