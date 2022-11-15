@@ -341,8 +341,8 @@ assignments = {
       "title": "Homework 8",
       "course": "Physics 5C",
       "dueDate": "2022-11-14T23:59:00",
-      "link": "https://www.gradescope.com/courses/434251",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/434251/assignments/2410097/submissions/148878121",
+      "submitted": true
     },
     {
       "title": "Homework 9",
