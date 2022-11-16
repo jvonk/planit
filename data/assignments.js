@@ -88,8 +88,8 @@ assignments = {
       "title": "Project Phase 1",
       "course": "CS 170",
       "dueDate": "2022-11-16T23:59:00",
-      "link": "https://www.gradescope.com/courses/426018",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/426018/assignments/2434966/submissions/149153104",
+      "submitted": true
     }
   ],
   "Math 110": [
