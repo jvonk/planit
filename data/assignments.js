@@ -189,7 +189,7 @@ assignments = {
     {
       "title": "Homework 11",
       "course": "Math 110 - DIS 101, 103, 104",
-      "dueDate": "2022-11-18T23:59:00",
+      "dueDate": "2022-11-21T23:59:00",
       "link": "https://www.gradescope.com/courses/431399",
       "submitted": false
     }
