@@ -364,6 +364,13 @@ assignments = {
       "dueDate": "2022-11-21T23:59:00",
       "link": "https://www.gradescope.com/courses/434251",
       "submitted": false
+    },
+    {
+      "title": "Homework 10",
+      "course": "Physics 5C",
+      "dueDate": "2022-12-02T23:59:00",
+      "link": "https://www.gradescope.com/courses/434251",
+      "submitted": false
     }
   ]
 };
