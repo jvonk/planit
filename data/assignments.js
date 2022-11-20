@@ -108,13 +108,6 @@ assignments = {
   ],
   "Math 110": [
     {
-      "title": "Practice with Gradescope - Optional",
-      "course": "Math 110",
-      "dueDate": "2022-09-26T22:00:00",
-      "link": "https://www.gradescope.com/courses/423294",
-      "submitted": false
-    },
-    {
       "title": "Midterm 1",
       "course": "Math 110",
       "dueDate": "2022-09-27T23:00:00",
