@@ -102,7 +102,7 @@ assignments = {
       "title": "Project Phase 2",
       "course": "CS 170",
       "dueDate": "2022-12-04T23:59:00",
-      "link": "https://www.gradescope.com/courses/426018/assignments/2443474/submissions/150255607",
+      "link": "https://www.gradescope.com/courses/426018/assignments/2443474/submissions/150276264",
       "submitted": true
     }
   ],
@@ -190,8 +190,8 @@ assignments = {
       "title": "Homework 11",
       "course": "Math 110 - DIS 101, 103, 104",
       "dueDate": "2022-11-21T23:59:00",
-      "link": "https://www.gradescope.com/courses/431399",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/431399/assignments/2431887/submissions/150276054",
+      "submitted": true
     }
   ],
   "PHYSICS 5CL-LAB": [
