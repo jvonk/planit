@@ -85,6 +85,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Homework 13",
+      "course": "CS 170",
+      "dueDate": "2022-11-28T21:59:00",
+      "link": "https://www.gradescope.com/courses/426018",
+      "submitted": false
+    },
+    {
       "title": "Mid Semester Feedback",
       "course": "CS 170",
       "dueDate": "2022-11-01T00:10:00",
@@ -108,14 +115,14 @@ assignments = {
     {
       "title": "Homework 10 Selfgrades",
       "course": "CS 170",
-      "dueDate": "2022-12-03T00:00:00",
+      "dueDate": "2022-12-02T23:59:00",
       "link": "https://www.gradescope.com/courses/426018/assignments/2459286/submissions/new",
       "submitted": false
     },
     {
       "title": "Homework 11 Selfgrades",
       "course": "CS 170",
-      "dueDate": "2022-12-03T00:00:00",
+      "dueDate": "2022-12-02T23:59:00",
       "link": "https://www.gradescope.com/courses/426018/assignments/2459287/submissions/new",
       "submitted": false
     }
