@@ -85,13 +85,6 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "Homework 13",
-      "course": "CS 170",
-      "dueDate": "2022-11-28T21:59:00",
-      "link": "https://www.gradescope.com/courses/426018",
-      "submitted": false
-    },
-    {
       "title": "Mid Semester Feedback",
       "course": "CS 170",
       "dueDate": "2022-11-01T00:10:00",
