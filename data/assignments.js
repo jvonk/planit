@@ -102,22 +102,22 @@ assignments = {
       "title": "Project Phase 2",
       "course": "CS 170",
       "dueDate": "2022-12-04T23:59:00",
-      "link": "https://www.gradescope.com/courses/426018/assignments/2443474/submissions/152081784",
+      "link": "https://www.gradescope.com/courses/426018/assignments/2443474/submissions/152106809",
       "submitted": true
     },
     {
       "title": "Homework 10 Selfgrades",
       "course": "CS 170",
       "dueDate": "2022-12-02T23:59:00",
-      "link": "https://www.gradescope.com/courses/426018/assignments/2459286/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/426018/assignments/2459286/submissions/152118322",
+      "submitted": true
     },
     {
       "title": "Homework 11 Selfgrades",
       "course": "CS 170",
       "dueDate": "2022-12-02T23:59:00",
-      "link": "https://www.gradescope.com/courses/426018/assignments/2459287/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/426018/assignments/2459287/submissions/152119483",
+      "submitted": true
     }
   ],
   "Math 110": [
@@ -383,8 +383,8 @@ assignments = {
       "title": "Homework 10",
       "course": "Physics 5C",
       "dueDate": "2022-12-02T23:59:00",
-      "link": "https://www.gradescope.com/courses/434251",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/434251/assignments/2448375/submissions/152116956",
+      "submitted": true
     }
   ]
 };
