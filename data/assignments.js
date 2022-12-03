@@ -102,7 +102,7 @@ assignments = {
       "title": "Project Phase 2",
       "course": "CS 170",
       "dueDate": "2022-12-04T23:59:00",
-      "link": "https://www.gradescope.com/courses/426018/assignments/2443474/submissions/152106809",
+      "link": "https://www.gradescope.com/courses/426018/assignments/2443474/submissions/152152359",
       "submitted": true
     },
     {
@@ -118,6 +118,20 @@ assignments = {
       "dueDate": "2022-12-02T23:59:00",
       "link": "https://www.gradescope.com/courses/426018/assignments/2459287/submissions/152119483",
       "submitted": true
+    },
+    {
+      "title": "Project Reflection",
+      "course": "CS 170",
+      "dueDate": "2022-12-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/426018",
+      "submitted": false
+    },
+    {
+      "title": "Project Code",
+      "course": "CS 170",
+      "dueDate": "2022-12-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/426018",
+      "submitted": false
     }
   ],
   "Math 110": [
