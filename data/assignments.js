@@ -102,7 +102,7 @@ assignments = {
       "title": "Project Phase 2",
       "course": "CS 170",
       "dueDate": "2022-12-04T23:59:00",
-      "link": "https://www.gradescope.com/courses/426018/assignments/2443474/submissions/152379474",
+      "link": "https://www.gradescope.com/courses/426018/assignments/2443474/submissions/152435370",
       "submitted": true
     },
     {
@@ -130,7 +130,7 @@ assignments = {
       "title": "Project Code",
       "course": "CS 170",
       "dueDate": "2022-12-04T23:59:00",
-      "link": "https://www.gradescope.com/courses/426018/assignments/2477803/submissions/152421382",
+      "link": "https://www.gradescope.com/courses/426018/assignments/2477803/submissions/152435733",
       "submitted": true
     }
   ],
