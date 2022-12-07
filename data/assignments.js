@@ -327,6 +327,13 @@ assignments = {
       "dueDate": "2022-11-09T23:59:00",
       "link": "https://www.gradescope.com/courses/427240/assignments/2425700/submissions/147787351",
       "submitted": true
+    },
+    {
+      "title": "Capstone presentation",
+      "course": "PHYSICS 5CL-LAB",
+      "dueDate": "2022-12-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/427240",
+      "submitted": false
     }
   ],
   "Physics 5C": [
