@@ -132,6 +132,13 @@ assignments = {
       "dueDate": "2022-12-04T23:59:00",
       "link": "https://www.gradescope.com/courses/426018/assignments/2477803/submissions/152435733",
       "submitted": true
+    },
+    {
+      "title": "Mock Final",
+      "course": "CS 170",
+      "dueDate": "2022-12-12T23:00:00",
+      "link": "https://www.gradescope.com/courses/426018/assignments/2501747/submissions/new",
+      "submitted": false
     }
   ],
   "Math 110": [
