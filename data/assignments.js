@@ -427,6 +427,13 @@ assignments = {
       "dueDate": "2022-12-02T23:59:00",
       "link": "https://www.gradescope.com/courses/434251/assignments/2448375/submissions/152116956",
       "submitted": true
+    },
+    {
+      "title": "final exam",
+      "course": "Physics 5C",
+      "dueDate": "2022-12-14T12:00:00",
+      "link": "https://www.gradescope.com/courses/434251/assignments/2507990/submissions/new",
+      "submitted": false
     }
   ]
 };
