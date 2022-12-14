@@ -432,7 +432,7 @@ assignments = {
       "title": "final exam",
       "course": "Physics 5C",
       "dueDate": "2022-12-14T12:00:00",
-      "link": "https://www.gradescope.com/courses/434251/assignments/2507990/submissions/new",
+      "link": "https://www.gradescope.com/courses/434251",
       "submitted": false
     }
   ]
