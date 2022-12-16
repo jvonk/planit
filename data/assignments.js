@@ -160,8 +160,8 @@ assignments = {
       "title": "Final Exam",
       "course": "Math 110",
       "dueDate": "2022-12-17T12:00:00",
-      "link": "https://www.gradescope.com/courses/423294/assignments/2513926/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/423294/assignments/2513926/submissions/154731629",
+      "submitted": true
     }
   ],
   "Math 110 - DIS 101, 103, 104": [
