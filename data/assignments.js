@@ -146,6 +146,13 @@ assignments = {
       "dueDate": "2022-12-13T18:00:00",
       "link": "https://www.gradescope.com/courses/426018/assignments/2505171/submissions/154234338",
       "submitted": true
+    },
+    {
+      "title": "Final Exam (Explanations)",
+      "course": "CS 170",
+      "dueDate": "2022-12-31T00:00:00",
+      "link": "https://www.gradescope.com/courses/426018/assignments/2519817/submissions/new",
+      "submitted": false
     }
   ],
   "Math 110": [
