@@ -151,7 +151,7 @@ assignments = {
       "title": "Final Exam (Explanations)",
       "course": "CS 170",
       "dueDate": "2022-12-31T00:00:00",
-      "link": "https://www.gradescope.com/courses/426018/assignments/2519817/submissions/new",
+      "link": "https://www.gradescope.com/courses/426018",
       "submitted": false
     }
   ],
